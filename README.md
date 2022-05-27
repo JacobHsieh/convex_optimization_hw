@@ -1,2 +1,2 @@
 # convex_optimization_hw
- NTU Convex Optimization Homework
+Convex Optimization homework in NTU written in JupyterLab
